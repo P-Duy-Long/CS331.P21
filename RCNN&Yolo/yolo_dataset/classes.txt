@@ -1,0 +1,8 @@
+bicycle
+bus
+car
+motorcycle
+parking meter
+person
+traffic light
+truck
